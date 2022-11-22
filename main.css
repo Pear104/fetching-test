@@ -1,0 +1,8 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.name, .description, .btn {
+    padding-top: 8px;
+}
